@@ -1,0 +1,12 @@
+//Here is just a reminder of some definitions are rules common to trees.
+
+//*Tree: root, Nodes, Siblings, branches (Edge) and Leafs (dead-ends)
+//Branching factor: number of branches at the base of each node.
+//Each branch line in a tree is basically like a SLL
+
+//Rules: each node is a child of its parent node.
+//Each child must have one a only one parent.
+//Childs within the same node cannot be connected.
+
+//? A tree is a particular case of graph: it's undirected, 
+//? unweighted and there's always only one path to get to any node/vertex.
