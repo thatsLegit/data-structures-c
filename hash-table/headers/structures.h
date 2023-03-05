@@ -1,6 +1,8 @@
 #ifndef HEADER_MAIN
 #define HEADER_MAIN
 
+#include <stdlib.h>
+
 #define VALUE_SIZE 25
 #define KEY_SIZE 10
 #define KEYMAP_SIZE 13
